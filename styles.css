@@ -1,0 +1,32 @@
+p {
+  font-size: 3rem;
+  color: green !important;
+}
+#title {
+
+}
+
+#pp2 {
+  color: blue;
+}
+
+div {
+  font-size: 2rem;
+  height: calc(25% - 10px);
+}
+
+div {
+  background-color: rgb(100, 0, 0);
+}
+
+div div {
+  background-color: rgb(100, 100, 0);
+}
+
+div div div {
+
+}
+
+li:first-child {
+  color: red;
+}
